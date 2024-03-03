@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohdsams023
+- 👋 Hi, I’m Mohd Samsuddin
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on web devlopment
