@@ -9,9 +9,9 @@ I'm Mohd Samsuddin, a full-stack developer passionate about coding.
 
 ## Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, Tailwind css, Bootstrap, JavaScript, React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB, Mysql
 - **Other:** Git, GitHub, RESTful APIs
 
 ## Projects
