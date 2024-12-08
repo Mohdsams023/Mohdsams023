@@ -28,6 +28,6 @@ Here are some of my recent projects:
 
 ## Education
 
-- Bachelor of Technology in Information Technology, Meerut institute of engineering and technology  (2020-25)
+- Bachelor of Technology in Information Technology, Meerut institute of engineering and technology  (2020-26)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
